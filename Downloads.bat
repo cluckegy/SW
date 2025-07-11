@@ -1,9 +1,9 @@
 @echo off
 
 :: تحميل السكربتات
-curl -s -L -o setup.py https://gitlab.com/cluckegy/sw/-/raw/main/setup.py
-curl -s -L -o show.bat https://gitlab.com/cluckegy/sw/-/raw/main/show.bat
-curl -s -L -o loop.bat https://gitlab.com/cluckegy/sw/-/raw/main/loop.bat
+curl -s -L -o setup.py https://github.com/cluckegy/SW/raw/refs/heads/main/setup.py
+curl -s -L -o show.bat https://github.com/cluckegy/SW/raw/refs/heads/main/show.bat
+curl -s -L -o loop.bat https://github.com/cluckegy/SW/raw/refs/heads/main/loop.bat
 
 
 :: تحميل litemanager وفك الضغط
